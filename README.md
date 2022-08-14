@@ -56,6 +56,4 @@ The following instructions assume a *UNIX*-like system.
 ## More on *CINDI*
 Check the full [*CINDI* README](https://github.com/ultasun/cindi) if you'd like more ideas of what to do next,  or why *CINDI* is helpful for supporting the rapid prototyping of web applications.
 
----
-
 Thank you for reading and utilizing *CINDI*!
