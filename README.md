@@ -2,7 +2,7 @@
 
 [*CINDI*](https://github.com/ultasun/cindi) is a *Meta Database Management System* which provides a simple way for front-end applications to perform [*CRUD*](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations  with various back-end stores.  *CINDI* is written in *Python 3*, and is available in the [*PyPI Index* as a *PIP* package](https://pypi.org/project/cindi/).
 
-This git repository makes available a *docker compose pack* in order for end users to get running with *CINDI* quickly, to enable the tenet of supporting rapid application prototyping.
+This git repository makes available a [*docker compose pack*](https://stackoverflow.com/a/55274390) in order for end users to get running with *CINDI* quickly, to enable the tenet of supporting rapid application prototyping.
 
 This *docker compose pack* utilizes one *Docker* image of the same name, called [*cindi-lite*](https://hub.docker.com/repository/docker/ultasun/cindi-lite). There are no other images utilized, and *docker compose* is used to orchestrate the setup.
 
